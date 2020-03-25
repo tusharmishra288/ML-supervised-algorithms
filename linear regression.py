@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 28 21:43:43 2020
-
-@author: VARUN MISHRA
-"""
-import os
-os.chdir("C:/Users/VARUN MISHRA/anadata")
-
 import numpy as np
 import matplotlib.pyplot as plt
 
