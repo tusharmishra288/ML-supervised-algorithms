@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 28 23:09:10 2020
-
-@author: VARUN MISHRA
-"""
-import os
-os.chdir('C:/Users/VARUN MISHRA/anadata')
 import pandas as pd
 import matplotlib.pyplot as plt
 import sklearn.model_selection as k
