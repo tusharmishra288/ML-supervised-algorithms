@@ -1,3 +1,3 @@
 # ML-alogorithms
 
-Some of the basic supervised machine learning alogrithms implementation.
+Implementation of basic supervised machine learning alogrithms used in machine learning.
